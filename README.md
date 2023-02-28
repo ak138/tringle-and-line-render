@@ -1,2 +1,3 @@
 # tringle-and-line-render![Screenshot 2023-02-27 231742]
-(https://user-images.githubusercontent.com/103148963/221752694-e8113c00-40d6-4b4e-b4a5-cf52602e69ce.jpg)
+
+![Screenshot 2023-02-27 231742](https://user-images.githubusercontent.com/103148963/221752832-6c0ba390-9207-4649-a92e-083b5410a870.jpg)
